@@ -4,7 +4,7 @@
 - 💞️ 
 - 📫 johannesteacher@gmail.com
 - 📫 johannesoloap@gmail.com
-- 📫 johann.chaves@obf.ateneo.edu
+- 📫 johann.chaves@student.ateneo.edu
 
 <!---
 anechtverjin/anechtverjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
